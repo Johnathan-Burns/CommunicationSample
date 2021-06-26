@@ -5730,6 +5730,8 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <sheets>
 <sheet>
 <plain>
+<text x="218.44" y="20.32" size="2.54" layer="94">Johnathan Burns</text>
+<text x="175.26" y="12.7" size="2.54" layer="94">CC-BY-SA-4.0</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes">
